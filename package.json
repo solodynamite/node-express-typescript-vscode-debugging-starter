@@ -1,0 +1,19 @@
+{
+  "name": "reaper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node 'dist/server.js'"
+  },
+  "keywords": [],
+  "author": "https://github.com/solodynamite",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.7",
+    "@types/node": "^14.0.23",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

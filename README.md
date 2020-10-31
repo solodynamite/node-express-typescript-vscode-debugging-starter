@@ -31,7 +31,7 @@ tsc -w
 
 Keep this terminal open and running while you're coding.
 
-The other option is within Visual Studio Code, press ⇧⌘B in MacOS or Ctrl+Shift+B in Windows then select `tsc: watch - tsconfig.json`.
+Alternatively, in Visual Studio Code, press ⇧⌘B in MacOS or Ctrl+Shift+B in Windows then select `tsc: watch - tsconfig.json`.
 
 Your auto-transpiling progress will appear in Visual Studio Code's Terminal window instead.
 
